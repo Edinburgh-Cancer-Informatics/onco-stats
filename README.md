@@ -43,8 +43,8 @@ Each tutorial includes:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/[your-username]/[repo-name].git
-   cd [repo-name]
+   git clone https://github.com/Edinburgh-Cancer-Informatics/onco-stats.git
+   cd [local-file-path].onco-stats
    ```
 
 2. **Install required packages**:
