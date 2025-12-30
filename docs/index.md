@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-*A course for Scottish Trainees*
-
----
-
 [**Pre-Course**](#pre-course-materials) | [**Day 1**](#day-1--monday-5th-january) | [**Day 2**](#day-2--tuesday-6th-january) | [**Day 3**](#day-3--wednesday-7th-january) | [**Day 4**](#day-4--thursday-8th-january) |[**Resources**](#additional-resources) | [**Feedback Form**](https://forms.cloud.microsoft/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYe5-seBTUNlJpQkUwP6aIZtUMTNEN0wwREg5MDVPWTZNMVAzRE82UEtGQy4u&route=shorturl)
 
 ---
