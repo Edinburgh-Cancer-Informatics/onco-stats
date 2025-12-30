@@ -3,7 +3,7 @@
 
 ---
 
-[**Day 1**](#day-1--monday-5th-january) | [**Day 2**](#day-2--tuesday-6th-january) | [**Day 3**](#day-3--wednesday-7th-january) | [**Day 4**](#day-4--thursday-8th-january) | [**Pre-Course**](#pre-course-materials) | [**Resources**](#additional-resources)
+ [**Pre-Course**] (#pre-course-materials) |[**Day 1**](#day-1--monday-5th-january) | [**Day 2**](#day-2--tuesday-6th-january) | [**Day 3**](#day-3--wednesday-7th-january) | [**Day 4**](#day-4--thursday-8th-january) |[**Resources**](#additional-resources)
 
 ---
 # Programme and Course Materials
