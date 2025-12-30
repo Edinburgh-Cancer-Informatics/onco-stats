@@ -18,8 +18,7 @@ Legacy handbook authored by master statistician Phillip McLoon
 
 **📄 Course Handbook** – [Pending](https://github.com/username/oncology-stats/releases/download/v2026/course-handbook.pdf)
 
-**💻 R Setup Guide** – [[Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)  
-*For participants attending optional R sessions. Install before Day 3.*
+**💻 R Setup Guide** – [[Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)] (*For participants attending optional R sessions. Install before Day 3*)
 
 ---
 
