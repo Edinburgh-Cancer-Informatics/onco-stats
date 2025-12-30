@@ -1,4 +1,5 @@
 # Statistics for Oncology
+*A course for Scottish Trainees*
 
 ---
 
@@ -7,7 +8,7 @@
 ---
 # Course Materials
 
-**Statistics for Oncology: Scottish Trainees Course** All course materials are available below, organized by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
+Course materials are available below, organized by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
 
 Legacy handbook authored by master statistician Phillip McLoon
 
