@@ -16,10 +16,10 @@ Legacy handbook authored by master statistician Phillip McLoon
 
 **📚 Reading List** – [Download Word document](https://cancer-data.ecrc.ed.ac.uk/wp-content/uploads/2025/12/Reading-Material.docx)
 
-**💻 R Setup Guide** – [GitHub: Getting Started](https://username.github.io/oncology-stats/setup.html)  
-*For participants attending optional R sessions. Install before Day 3.*
-
 **📄 Course Handbook** – [GitHub: PDF](https://github.com/username/oncology-stats/releases/download/v2026/course-handbook.pdf)
+
+**💻 R Setup Guide** – [[Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)  
+*For participants attending optional R sessions. Install before Day 3.*
 
 ---
 
