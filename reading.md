@@ -1,3 +1,7 @@
+---
+layout: default
+title: Reading List
+---
 # Reading Material
 *Statistics for Oncology - A course for Scottish trainees*
 
