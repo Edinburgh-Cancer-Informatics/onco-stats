@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Statistics for Oncology
 *A course for Scottish Trainees*
 
 ---
