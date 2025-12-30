@@ -14,7 +14,7 @@ Legacy handbook authored by master statistician Phillip McLoon
 
 ## Pre-Course Materials
 
-**📚 Reading List** – [View](Edinburgh-Cancer-Informatics/onco-stats/blob/main/index.md)
+**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md)
 
 **📄 Course Handbook** – [Pending](https://github.com/username/oncology-stats/releases/download/v2026/course-handbook.pdf)
 
