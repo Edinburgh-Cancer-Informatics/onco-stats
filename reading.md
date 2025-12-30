@@ -1,6 +1,5 @@
 # Reading Material
-## Statistics for Oncology - A course for Scottish trainees
-
+*Statistics for Oncology - A course for Scottish trainees*
 
 ### Basic Level Textbooks
 ---
