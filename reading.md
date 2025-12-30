@@ -2,7 +2,7 @@
 layout: default
 title: Reading List
 ---
-# Reading Material
+# Reading List
 *Statistics for Oncology - A course for Scottish trainees*
 
 ### Basic Level Textbooks
