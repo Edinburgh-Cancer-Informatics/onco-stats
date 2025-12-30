@@ -1,7 +1,5 @@
 # Course Materials
 
-**Statistics for Oncology: Scottish Trainees Course** All course materials are available below, organized by day and session. Slides and recordings will be added during and after the course.
-
 ---
 
 ### 📋 Quick Navigation
