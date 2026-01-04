@@ -10,7 +10,7 @@ title: Home
 # Programme and Course Materials
 ***Statistics for Oncology - A Course for Scottish Trainees***
 
-[Back to main course page](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)
+[Back to main course page](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
 Course materials are available below, organized by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
 
 ---
@@ -20,8 +20,8 @@ Course materials are available below, organized by day and session. Slides and r
 
 ### Pre-Course Materials
 
-**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md) *(no prior reading expected)*
-**📄 Course Handbook** – [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)
+**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md) *(no prior reading expected)*  
+**📄 Course Handbook** – [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
 **💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html) *(for those attending optional introduction to applied analysis session on Wednesday)*
 
 ---
@@ -33,21 +33,21 @@ Course materials are available below, organized by day and session. Slides and r
 *10:00am - 10:30am | Introduction and course overview *
 
 ### Types of Data
-*10:30–11:00am | Peter Hall* 
-**📊 Slides:**
+*10:30–11:00am | Peter Hall*   
+**📊 Slides:**  
 **💻 Tutorial:** 
 
 ### Statistical Sampling
-*11:00am–12:30pm | Giovanni Tramonti*
+*11:00am–12:30pm | Giovanni Tramonti*  
 **📊 Slides:**  
 
 ### Principles of Statistical Inference
-*1:30–2:30pm | Giovanni Tramonti* 
-**📊 Slides:** 
+*1:30–2:30pm | Giovanni Tramonti*   
+**📊 Slides:**  
 **📚 Reading:** 
 
 ### Tests to Compare Groups
-*2:30–3:30pm | Giovanni Tramonti* 
+*2:30–3:30pm | Giovanni Tramonti*  
 
 
 ---
@@ -61,15 +61,15 @@ Course materials are available below, organized by day and session. Slides and r
 *9:30–11:00am | Piyumanga Karunaratne* 
 
 ### Survival Analysis
-*11:30am–12:30pm | Peter Hall* 
-**📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-survival.pdf)    
+*11:30am–12:30pm | Peter Hall*  
+**📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-survival.pdf)  
 **💻 Tutorial:** [Kaplan-Meier and Cox Regression](https://username.github.io/oncology-stats/tutorials/05-survival.html)
 
 ### Screening Tests
 *1:30–2:30pm | Piyumanga Karunaratne*
 
 ### Clinical Trial Design
-*3:00–4:00pm | Rob Jones* 
+*3:00–4:00pm | Rob Jones*   
 **📊 Slides:**
 
 ---
@@ -80,23 +80,23 @@ Course materials are available below, organized by day and session. Slides and r
 *9:00–10:00am* **📄 Practice Questions:** 
 
 ### Epidemiological Studies
-*10:00–10:45am | Peter Hall* 
+*10:00–10:45am | Peter Hall*   
 **📊 Slides:**
 
 
 ### Exam Question Workshop 1
-*11:00am–12:30pm | Anna Cowel* 
+*11:00am–12:30pm | Anna Cowel*   
 **📄 Workshop Questions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1.pdf)  
 **📄 Solutions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1-solutions.pdf)
 
 ### Data Management for Research
-*1:30–2:30pm | Mahéva Vallet* 
+*1:30–2:30pm | Mahéva Vallet*   
 **📊 Slides:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-data-management.pdf)  
 
 ### Introduction to R (Optional)
 *2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*
 **📊 Slides:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-r-intro.pdf)  
-**💻 Tutorial:** pending
+**💻 Tutorial:** pending  
 **📦 Datasets:** [TBC]()
 
 ---
@@ -104,22 +104,22 @@ Course materials are available below, organized by day and session. Slides and r
 ## Day 4 – Thursday 8th January
 
 ### Guided Self-Study
-*9:00–10:00am*
+*9:00–10:00am*  
 **📄 Practice Questions:**
 
 ### Exam Question Workshop 2
-*10:00–11:15am | Anna Cowel* 
+*10:00–11:15am | Anna Cowel*   
 **📄 Workshop Questions:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2.pdf)  
 **📄 Solutions:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2-solutions.pdf)
 
 ### Health Economics
-*11:30am–12:30pm | Peter Hall*
+*11:30am–12:30pm | Peter Hall*  
 **📊 Slides:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-health-economics.pdf)  
-**🎥 Legacy Recordings:** 
-    - [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)
-    - [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)
-    - [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)
-    - [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)
+**🎥 Legacy Recordings:**   
+    * [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)  
+    * [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)  
+    * [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)  
+    * [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)  
 
 
 ### Critical Appraisal & Key Trials
@@ -129,13 +129,6 @@ Course materials are available below, organized by day and session. Slides and r
 
 ## Additional Resources
 
-### Complete Tutorial Series
-All interactive tutorials are available on our [GitHub Pages site](https://username.github.io/oncology-stats/). These include:
-* Worked examples with real clinical datasets
-* Step-by-step R code (can be run without R using the web interface)
-* Practice exercises with solutions
-* FRCR-style multiple choice questions
-
 ### Downloadable Datasets
 **📦 Course datasets:**
 
@@ -143,7 +136,6 @@ Individual datasets:
 * [Breast cancer cohort](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
 * [Lung cancer survival](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/lung_cancer_survival.xlsx)
 * [Screening test data](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/screening_data.xlsx)
-
 
 ---
 
