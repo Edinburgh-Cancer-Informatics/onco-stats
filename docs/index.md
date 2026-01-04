@@ -144,7 +144,7 @@ Individual datasets:
 
 ## GitHub Repository
 All materials are version-controlled and available at:  
-**[github.com/username/oncology-stats](https://github.com/username/oncology-stats)**
+**[https://github.com/Edinburgh-Cancer-Informatics/onco-stats](https://github.com/Edinburgh-Cancer-Informatics/onco-stats))**
 
 You can:
 * Download all materials at once
