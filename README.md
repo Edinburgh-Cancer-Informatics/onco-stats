@@ -17,6 +17,10 @@ The course assumes **no prior knowledge** of statistics or programming and build
 ## Repository Contents
 
 ```
+├── docs/
+|   ├── index.html
+|   ├── reading.md
+|   ├── ...
 ├── tutorials/
 │   ├── 01_descriptive_statistics.qmd
 │   ├── 02_survival_analysis.qmd
