@@ -7,117 +7,123 @@ title: Home
 
 
 # Programme and Course Materials
+***Statistics for Oncology - A Course for Scottish Trainees***
 
+[Back to main course page](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)
 Course materials are available below, organized by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
 
-*Course handbook pending*
+---
+
+**🎥 Recording:** Session Recordings will be available in the [NES ST3 Oncology Teaching - 2025 - 2026 Teams Channel](<https://teams.microsoft.com/l/team/19%3AoVz3nKTOZ85PPlvicRSBaYS0orbz3bRYmGOsf6XLDzE1%40thread.tacv2/conversations?groupId=462b710e-19b3-4562-a905-fc3fa28d4efa&tenantId=10efe0bd-a030-4bca-809c-b5e6745e499a>
+)
+
+### Pre-Course Materials
+
+**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md) *(no prior reading expected)*
+**📄 Course Handbook** – [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)
+**💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html) *(for those attending optional introduction to applied analysis session on Wednesday)*
 
 ---
 
 ## Day 1 – Monday 5th January
 
 ### Introduction and Overview
-*9:30–10:30am | all* 
+*9:30am - 10am | Arrival and Registration*
+*10:00am - 10:30am | Introduction and course overview *
 
 ### Types of Data
-*10:30–11:00am | Peter Hall* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day1-data-types.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**💻 Tutorial:** [Data Types in Clinical Research](https://username.github.io/oncology-stats/tutorials/01-data-types.html)
+*10:30–11:00am | Peter Hall* 
+**📊 Slides:**
+**💻 Tutorial:** 
 
 ### Statistical Sampling
-*11:00am–12:30pm | Giovanni Tramonti* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day1-sampling.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**💻 Tutorial:** [Sampling Methods](https://username.github.io/oncology-stats/tutorials/02-sampling.html)
+*11:00am–12:30pm | Giovanni Tramonti*
+**📊 Slides:**  
 
 ### Principles of Statistical Inference
-*1:30–2:30pm | Giovanni Tramonti* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day1-inference.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**📚 Reading:** [Confidence intervals explained](https://username.github.io/oncology-stats/reading/confidence-intervals.html)
+*1:30–2:30pm | Giovanni Tramonti* 
+**📊 Slides:** 
+**📚 Reading:** 
 
 ### Tests to Compare Groups
-*2:30–3:30pm | Giovanni Tramonti* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day1-tests.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**💻 Tutorial:** [Hypothesis Testing](https://username.github.io/oncology-stats/tutorials/03-hypothesis-tests.html)
+*2:30–3:30pm | Giovanni Tramonti* 
+
 
 ---
 
 ## Day 2 – Tuesday 6th January
 
 ### Guided Self-Study
-*9:00–9:30am* **📄 Practice Questions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-practice.pdf)
+*9:00–9:30am* **📄 Practice Questions:** 
 
 ### Association and Regression
-*9:30–11:00am | Piyumanga Karunaratne* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-regression.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**💻 Tutorial:** [Correlation and Regression](https://username.github.io/oncology-stats/tutorials/04-regression.html)
+*9:30–11:00am | Piyumanga Karunaratne* 
 
 ### Survival Analysis
-*11:30am–12:30pm | Peter Hall* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-survival.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
+*11:30am–12:30pm | Peter Hall* 
+**📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-survival.pdf)    
 **💻 Tutorial:** [Kaplan-Meier and Cox Regression](https://username.github.io/oncology-stats/tutorials/05-survival.html)
 
 ### Screening Tests
-*1:30–2:30pm | Piyumanga Karunaratne* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-screening.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**💻 Tutorial:** [Sensitivity, Specificity, and ROC Curves](https://username.github.io/oncology-stats/tutorials/06-screening.html)
+*1:30–2:30pm | Piyumanga Karunaratne*
 
 ### Clinical Trial Design
-*3:00–4:00pm | Rob Jones* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-trials.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**📚 Reading:** [Trial phases and designs](https://username.github.io/oncology-stats/reading/trial-designs.html)
+*3:00–4:00pm | Rob Jones* 
+**📊 Slides:**
 
 ---
 
 ## Day 3 – Wednesday 7th January
 
 ### Guided Self-Study
-*9:00–10:00am* **📄 Practice Questions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-practice.pdf)
+*9:00–10:00am* **📄 Practice Questions:** 
 
 ### Epidemiological Studies
-*10:00–10:45am | Piyumanga Karunaratne* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-epidemiology.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)
+*10:00–10:45am | Peter Hall* 
+**📊 Slides:**
+
 
 ### Exam Question Workshop 1
-*11:00am–12:30pm | Anna Cowel* **📄 Workshop Questions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1.pdf)  
-**📄 Solutions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1-solutions.pdf)
+*11:00am–12:30pm | Anna Cowel* 
+**📄 Workshop Questions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1.pdf)  
+**📄 Solutions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1-solutions.pdf)
 
 ### Data Management for Research
-*1:30–2:30pm | Mahéva Vallet* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-data-management.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)
+*1:30–2:30pm | Mahéva Vallet* 
+**📊 Slides:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-data-management.pdf)  
 
 ### Introduction to R (Optional)
-*2:30–4:00pm* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day3-r-intro.pdf)  
-**💻 Tutorial:** [Your First R Analysis](https://username.github.io/oncology-stats/tutorials/07-r-introduction.html)  
-**📦 Dataset:** [Download breast_cancer_data.xlsx](https://github.com/username/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
+*2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*
+**📊 Slides:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-r-intro.pdf)  
+**💻 Tutorial:** pending
+**📦 Datasets:** [TBC]()
 
 ---
 
 ## Day 4 – Thursday 8th January
 
 ### Guided Self-Study
-*9:00–10:00am* **📄 Practice Questions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day4-practice.pdf)
+*9:00–10:00am*
+**📄 Practice Questions:**
 
 ### Exam Question Workshop 2
-*10:00–11:15am | Anna Cowel* **📄 Workshop Questions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2.pdf)  
-**📄 Solutions:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2-solutions.pdf)
+*10:00–11:15am | Anna Cowel* 
+**📄 Workshop Questions:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2.pdf)  
+**📄 Solutions:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-workshop2-solutions.pdf)
 
 ### Health Economics
-*11:30am–12:30pm | Peter Hall* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day4-health-economics.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)
+*11:30am–12:30pm | Peter Hall*
+**📊 Slides:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-health-economics.pdf)  
+**🎥 Legacy Recordings:** 
+    - [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)
+    - [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)
+    - [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)
+    - [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)
+
 
 ### Critical Appraisal & Key Trials
-*1:30–3:30pm | Stefan Symeonides* **📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day4-critical-appraisal.pdf)  
-**🎥 Recording:** [Link](https://claude.ai/chat/3faf1465-5bee-4bf4-812b-d4ca975b1431#)  
-**📚 Reading:** [Landmark trials in oncology](https://username.github.io/oncology-stats/reading/landmark-trials.html)
+*1:30–3:30pm | Stefan Symeonides* 
 
----
-## Pre-Course Materials
-
-**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md)
-
-**📄 Course Handbook** – [Pending](https://github.com/username/oncology-stats/releases/download/v2026/course-handbook.pdf)
-
-**💻 R Setup Guide** – [[Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)] (*For participants attending optional R sessions. Install before Day 3*)
 ---
 
 ## Additional Resources
@@ -130,21 +136,13 @@ All interactive tutorials are available on our [GitHub Pages site](https://usern
 * FRCR-style multiple choice questions
 
 ### Downloadable Datasets
-**📦 All course datasets:** [Download ZIP file](https://github.com/username/oncology-stats/archive/refs/heads/main.zip)
+**📦 Course datasets:**
 
 Individual datasets:
-* [Breast cancer cohort](https://github.com/username/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
-* [Lung cancer survival](https://github.com/username/oncology-stats/raw/main/data/lung_cancer_survival.xlsx)
-* [Screening test data](https://github.com/username/oncology-stats/raw/main/data/screening_data.xlsx)
+* [Breast cancer cohort](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
+* [Lung cancer survival](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/lung_cancer_survival.xlsx)
+* [Screening test data](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/screening_data.xlsx)
 
-### Reference Materials
-**📚 Statistical formulae:** [Quick reference PDF](https://github.com/username/oncology-stats/releases/download/v2026/statistical-formulae.pdf)  
-**📚 R cheat sheet:** [Essential commands PDF](https://github.com/username/oncology-stats/releases/download/v2026/r-cheatsheet.pdf)  
-**📚 Glossary:** [Statistical terms](https://username.github.io/oncology-stats/glossary.html)
-
-### Past Exam Questions
-A curated collection of FRCR Part 1 style questions covering each topic:  
-**📄 [Practice question bank PDF](https://github.com/username/oncology-stats/releases/download/v2026/exam-questions.pdf)**
 
 ---
 
@@ -154,17 +152,10 @@ All materials are version-controlled and available at:
 
 You can:
 * Download all materials at once
-* Report errors or suggest improvements
+* Report errors or suggest improvements by creating an 'issue'
 * Access updated versions as they become available
-* Fork the repository for your own use
+* Fork the repository for your own use - any improvements welcome via a pull request
 
 ---
 
-## Technical Support
-**For issues accessing materials:** Contact the course team via the [main contact form](https://cancer-data.ecrc.ed.ac.uk/contact/)
-
-**For R installation help:** See our [troubleshooting guide](https://username.github.io/oncology-stats/troubleshooting.html)
-
----
-
-*Materials will be updated during the course. This page will remain available for future reference.*
+*Materials will be updated during the course. *
