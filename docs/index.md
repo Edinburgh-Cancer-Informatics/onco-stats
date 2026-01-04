@@ -10,17 +10,20 @@ title: Home
 # Programme and Course Materials
 ***Statistics for Oncology - A Course for Scottish Trainees***
 
-[Back to main course page](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
-Course materials are available below, organized by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
+[![Back to main course page](https://img.shields.io/badge/Click-Here-blue)](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
+
+Course materials are available below, organised by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
+
+**Questions and Answers about the course:** [Q&A Discussion Board on Github](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions/3)  
+**Please feedback so that we can improve the course:** [Feedback Discussion Board on Github](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions/2)
 
 ---
 
-**🎥 Recording:** Session Recordings will be available in the [NES ST3 Oncology Teaching - 2025 - 2026 Teams Channel](<https://teams.microsoft.com/l/team/19%3AoVz3nKTOZ85PPlvicRSBaYS0orbz3bRYmGOsf6XLDzE1%40thread.tacv2/conversations?groupId=462b710e-19b3-4562-a905-fc3fa28d4efa&tenantId=10efe0bd-a030-4bca-809c-b5e6745e499a>
-)
+**🎥 Recording:** Session Recordings will be available in the [NES ST3 Oncology Teaching - 2025 - 2026 Teams Channel](https://teams.microsoft.com/l/team/19%3AoVz3nKTOZ85PPlvicRSBaYS0orbz3bRYmGOsf6XLDzE1%40thread.tacv2/conversations?groupId=462b710e-19b3-4562-a905-fc3fa28d4efa&tenantId=10efe0bd-a030-4bca-809c-b5e6745e499a)
 
 ### Pre-Course Materials
 
-**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading.md) *(no prior reading expected)*  
+**📚 Reading List** – [View](https://edinburgh-cancer-informatics.github.io/onco-stats/reading) *(no prior reading expected)*  
 **📄 Course Handbook** – [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
 **💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html) *(for those attending optional introduction to applied analysis session on Wednesday)*
 
