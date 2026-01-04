@@ -32,8 +32,8 @@ Course materials are available below, organised by day and session. Slides and r
 ## Day 1 – Monday 5th January
 
 ### Introduction and Overview
-*9:30am - 10am | Arrival and Registration*
-*10:00am - 10:30am | Introduction and course overview *
+*9:30am - 10am | Arrival and Registration*  
+*10:00am - 10:30am | Introduction and course overview*
 
 ### Types of Data
 *10:30–11:00am | Peter Hall*   
