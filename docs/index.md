@@ -10,7 +10,7 @@ title: Home
 # Programme and Course Materials
 ***Statistics for Oncology - A Course for Scottish Trainees***
 
-[![Back to main course page](https://img.shields.io/badge/Click-Here-blue)](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/)  
+[![Back to main course page](https://img.shields.io/badge/-->-Return%20to%20Main%20Course%20Page-blue)](https://cancer-data.ecrc.ed.ac.uk/oncology-statistics/)  
 
 Course materials are available below, organised by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
 
