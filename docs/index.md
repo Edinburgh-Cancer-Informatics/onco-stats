@@ -116,10 +116,10 @@ Course materials are available below, organized by day and session. Slides and r
 *11:30am–12:30pm | Peter Hall*  
 **📊 Slides:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-health-economics.pdf)  
 **🎥 Legacy Recordings:**   
-    * [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)  
-    * [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)  
-    * [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)  
-    * [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)  
+* [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)
+* [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)  
+* [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)  
+* [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)  
 
 
 ### Critical Appraisal & Key Trials
@@ -132,7 +132,7 @@ Course materials are available below, organized by day and session. Slides and r
 ### Downloadable Datasets
 **📦 Course datasets:**
 
-Individual datasets:
+Individual datasets:  
 * [Breast cancer cohort](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
 * [Lung cancer survival](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/lung_cancer_survival.xlsx)
 * [Screening test data](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/screening_data.xlsx)
