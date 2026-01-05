@@ -62,7 +62,7 @@ Course materials are available below, organised by day and session. Slides and r
 ### Association and Regression
 *9:30–11:00am | Piyumanga Karunaratne*  
 **📊 Slides with Practice Questions:**  [Download](./slides/correlation_regression.pdf)  
-**📝 Practice Question Answers** [Link] (./questions/hold.md) 
+**📝 Practice Question Answers** [Link](./questions/hold.md)  
 **💻 Practice R Scripts:**  [Correlation](./scripts/Correlation.R) [Linear Regression](./scripts/Linear_regression.R) [Logistic_regression](./scripts/Logistic_regression.R)
 
 ### Survival Analysis
@@ -72,7 +72,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Screening Tests
 *1:30–2:30pm | Piyumanga Karunaratne*  
-**📊 Slides:** [Download](./slides/screening_tests.pdf)
+**📊 Slides:** [Download](./slides/screening_tests.pdf)  
 **📖 Handbook Section:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/08-statistical-inference.html)
 
 ### Clinical Trial Design
