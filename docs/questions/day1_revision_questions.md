@@ -17,8 +17,6 @@ Which of the following statements about data types are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, C, D are TRUE**
 
 **Explanation:**
@@ -49,8 +47,6 @@ Which of the following statements about measures of central tendency are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, C, D, E are TRUE**
 
@@ -83,8 +79,6 @@ Which of the following statements about measures of dispersion are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, D, E are TRUE**
 
 **Explanation:**
@@ -115,8 +109,6 @@ Which of the following statements about the Normal distribution are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -149,8 +141,6 @@ Which of the following statements about graphs and data presentation are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, D, E are TRUE**
 
 **Explanation:**
@@ -181,8 +171,6 @@ Which of the following statements are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -215,8 +203,6 @@ Which of the following statements about populations and samples are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, E are TRUE**
 
 **Explanation:**
@@ -247,8 +233,6 @@ Which of the following statements about skewed distributions are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, C, E are TRUE**
 
@@ -281,8 +265,6 @@ Which of the following statements about confidence intervals are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, D are TRUE**
 
 **Explanation:**
@@ -313,8 +295,6 @@ Which of the following statements about quartiles and percentiles are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, C, D are TRUE**
 
@@ -351,8 +331,6 @@ Which of the following statements about probability are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, D are TRUE**
 
 **Explanation:**
@@ -383,8 +361,6 @@ Which of the following statements about populations and samples are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -417,8 +393,6 @@ Which of the following statements about random sampling are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, D are TRUE**
 
 **Explanation:**
@@ -449,8 +423,6 @@ Which of the following statements about selection bias are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -483,8 +455,6 @@ Which of the following statements about parameters and statistics are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, E are TRUE**
 
 **Explanation:**
@@ -515,8 +485,6 @@ Which of the following statements about the central limit theorem are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, D are TRUE**
 
@@ -549,8 +517,6 @@ Which of the following statements about standard errors are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, E are TRUE**
 
 **Explanation:**
@@ -581,8 +547,6 @@ Which of the following statements about confidence intervals for means are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
-
-<br>
 
 **Correct answers: A, B, C, E are TRUE**
 
@@ -615,8 +579,6 @@ Which of the following statements about confidence intervals for proportions are
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, D, E are TRUE**
 
 **Explanation:**
@@ -648,8 +610,6 @@ Which of the following statements about sample size and precision are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
-<br>
-
 **Correct answers: A, B, C, E are TRUE**
 
 **Explanation:**
@@ -663,6 +623,320 @@ Which of the following statements about sample size and precision are TRUE?
 - **D) FALSE** – There is no universal "sufficient" sample size. Required sample size depends on the desired precision, expected variability, effect size of interest, and the specific research question.
 
 - **E) TRUE** – Researchers should consider what degree of precision is appropriate for their study and calculate the sample size needed to achieve it.
+
+</details>
+
+---
+
+# 📚 Concepts in Statistical Inference
+
+---
+
+## Question 21: Null and Alternative Hypotheses
+
+Which of the following statements about hypotheses are TRUE?
+
+- A) The null hypothesis (H₀) is a statement of 'no difference' or 'no effect'
+- B) The alternative hypothesis (H₁) is the negation of the null hypothesis
+- C) In hypothesis testing, we assume the alternative hypothesis is true and seek evidence to support it
+- D) The null hypothesis is assumed to be true until evidence suggests otherwise
+- E) A theory in empirical sciences can be proven true through hypothesis testing
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The null hypothesis is defined as a statement of 'no difference' or 'no effect', which is assumed to be true.
+
+- **B) TRUE** – The alternative hypothesis (H₁ or Hₐ) holds if the null hypothesis is not true. It is the logical negation of H₀.
+
+- **C) FALSE** – In hypothesis testing, we assume the null hypothesis is true (not the alternative) and seek evidence to refute it.
+
+- **D) TRUE** – This is the fundamental approach of hypothesis testing – similar to "innocent until proven guilty" in a court case. We gather evidence to decide whether to reject H₀.
+
+- **E) FALSE** – A theory in empirical sciences can never be proven, but if assumed to be true, it can be subject to falsification. Daily observations reinforce beliefs but do not prove them.
+
+</details>
+
+---
+
+## Question 22: Types of Clinical Trials
+
+Which of the following statements about clinical trial types are TRUE?
+
+- A) A superiority trial aims to demonstrate that a new treatment is better than existing treatments
+- B) An equivalence trial aims to show that the difference between treatments is not large in either direction
+- C) A non-inferiority trial aims to demonstrate that an experimental treatment is not substantially worse than control
+- D) All clinical trials must demonstrate superiority to be considered successful
+- E) The null hypothesis in a superiority trial typically states there is no difference between treatments
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Superiority trials are designed to demonstrate that a new treatment produces better outcomes than existing treatments.
+
+- **B) TRUE** – Equivalence trials aim to show that the difference between control and experimental treatments is not large in either direction – essentially that they are therapeutically similar.
+
+- **C) TRUE** – Non-inferiority trials aim to show that an experimental treatment is not substantially worse than the control, even if it's not necessarily better.
+
+- **D) FALSE** – Not all trials need to show superiority. Non-inferiority and equivalence trials have different objectives that may be clinically relevant (e.g., a treatment that is equally effective but has fewer side effects).
+
+- **E) TRUE** – In a superiority trial, the null hypothesis typically states there is no difference between treatments, and we seek evidence to reject this in favour of the alternative.
+
+</details>
+
+---
+
+## Question 23: The Test Statistic and P-values
+
+Which of the following statements about test statistics and p-values are TRUE?
+
+- A) A test statistic is a numerical value calculated from sample data
+- B) The p-value is the probability of obtaining a test statistic value as extreme or more extreme, assuming H₀ is true
+- C) The smaller the p-value, the greater the evidence against the null hypothesis
+- D) A p-value of 0.03 means there is a 3% chance the null hypothesis is true
+- E) The test statistic value is related to a specific probability distribution
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – A test statistic is calculated from the sample data and is used to test the null hypothesis.
+
+- **B) TRUE** – The p-value represents the probability of getting a value as extreme or greater than the observed test statistic, when the null hypothesis is assumed to be true.
+
+- **C) TRUE** – Smaller p-values indicate stronger evidence against H₀. A very small p-value suggests the observed data would be unlikely if H₀ were true.
+
+- **D) FALSE** – This is a common misinterpretation. The p-value is NOT the probability that the null hypothesis is true. The null hypothesis is either true or not – it doesn't have a probability. The p-value is the probability of the observed data (or more extreme) given H₀ is true.
+
+- **E) TRUE** – The test statistic follows a known probability distribution (e.g., Normal, t, chi-squared) under the null hypothesis, which allows calculation of the p-value.
+
+</details>
+
+---
+
+## Question 24: Interpreting P-values
+
+Which of the following statements about interpreting p-values are TRUE?
+
+- A) P < 0.05 is conventionally considered sufficient evidence to reject the null hypothesis
+- B) P ≥ 0.05 means the null hypothesis is definitely true
+- C) A result with p < 0.05 is described as "statistically significant at the 5% level"
+- D) P < 0.05 suggests a small chance the observed results would occur if H₀ were true
+- E) (1 - p-value) gives the probability that the alternative hypothesis is true
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – By convention, p < 0.05 is considered enough evidence to reject the null hypothesis in favour of the alternative.
+
+- **B) FALSE** – P ≥ 0.05 means there is insufficient evidence to reject H₀. It does NOT mean H₀ is true – just that we cannot reject it based on the available evidence.
+
+- **C) TRUE** – When p < 0.05, the results are described as "statistically significant at the 5% level" and H₀ is rejected in favour of H₁.
+
+- **D) TRUE** – P < 0.05 indicates only a small chance (less than 5%) that the observed results (or more extreme) would have occurred if the null hypothesis were true.
+
+- **E) FALSE** – This is a common misinterpretation. The alternative hypothesis is either true or not true – it doesn't have a probability. (1 - p) is NOT the probability that H₁ is true.
+
+</details>
+
+---
+
+## Question 25: Type I and Type II Errors
+
+Which of the following statements about Type I and Type II errors are TRUE?
+
+- A) A Type I error occurs when we reject a true null hypothesis (false positive)
+- B) A Type II error occurs when we fail to reject a false null hypothesis (false negative)
+- C) The probability of a Type I error is denoted by α (alpha) and equals the significance level
+- D) Type II errors are generally considered more serious than Type I errors
+- E) The probability of a Type II error is denoted by β (beta)
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – A Type I error is a "false positive" – concluding an effect exists when it does not. This occurs when we incorrectly reject a true null hypothesis.
+
+- **B) TRUE** – A Type II error is a "false negative" – failing to detect an effect that is actually present. This occurs when we fail to reject a false null hypothesis.
+
+- **C) TRUE** – The probability of making a Type I error is α, which is the chosen significance level (conventionally 5% or 0.05).
+
+- **D) FALSE** – Type I errors are generally considered more serious than Type II errors because they could lead to changes in practice based on false findings (e.g., adopting an ineffective treatment).
+
+- **E) TRUE** – The probability of a Type II error is denoted by β. The complement (1 - β) is the power of the test.
+
+</details>
+
+---
+
+## Question 26: Statistical Power
+
+Which of the following statements about statistical power are TRUE?
+
+- A) Power is the probability of rejecting the null hypothesis when it is false
+- B) Power equals (1 - β), where β is the probability of a Type II error
+- C) Power is the chance of detecting a statistically significant treatment effect when one truly exists
+- D) Higher power means a greater chance of making a Type I error
+- E) Power is typically expressed as a percentage
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Power is defined as the probability of correctly rejecting a false null hypothesis.
+
+- **B) TRUE** – Power = 1 - β. Since β is the probability of failing to reject a false H₀ (Type II error), power is the probability of correctly rejecting it.
+
+- **C) TRUE** – In practical terms, power is the chance of detecting, as statistically significant, a real treatment effect when it exists.
+
+- **D) FALSE** – Power and Type I error rate (α) are different concepts. Higher power reduces the chance of Type II errors, not Type I errors. The significance level α controls Type I error rate.
+
+- **E) TRUE** – Power is usually expressed as a percentage (e.g., 80% power, 90% power).
+
+</details>
+
+---
+
+## Question 27: One-sided vs Two-sided Tests
+
+Which of the following statements about one-sided and two-sided tests are TRUE?
+
+- A) A two-sided test does not specify the direction of the difference in the alternative hypothesis
+- B) A one-sided test specifies the direction of the difference in H₁
+- C) Two-sided tests are generally preferred and one-sided tests are discouraged
+- D) A one-sided test is more powerful than a two-sided test for detecting effects in the specified direction
+- E) It is appropriate to switch from a two-sided to one-sided test after seeing the data
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – In a two-sided test, H₁ states that the treatments are "not equal" without specifying which is better. This allows for effects in either direction.
+
+- **B) TRUE** – A one-sided test specifies the direction in H₁ (e.g., "Drug A is better than Drug B" rather than "Drug A is different from Drug B").
+
+- **C) TRUE** – One-sided tests are generally discouraged because it is rarely known beforehand which direction an effect will take. Two-sided tests are more conservative and generally preferred.
+
+- **D) TRUE** – A one-sided test has more power to detect an effect in the specified direction because all the rejection region is on one side. However, it cannot detect effects in the opposite direction.
+
+- **E) FALSE** – Switching from two-sided to one-sided after seeing data is inappropriate and constitutes a form of data manipulation. The choice must be made before data collection.
+
+</details>
+
+---
+
+## Question 28: P-values vs Confidence Intervals
+
+Which of the following statements comparing p-values and confidence intervals are TRUE?
+
+- A) Confidence intervals provide information about the precision of an estimate
+- B) P-values dichotomise results into significant or non-significant
+- C) If a 95% CI for a difference includes zero, the result is not statistically significant at p < 0.05
+- D) Confidence intervals convey more information than p-values alone
+- E) A very small p-value always indicates a clinically important effect
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Confidence intervals show the range within which the true parameter likely lies, providing information about the imprecision due to sampling variability.
+
+- **B) TRUE** – P-values result in a binary decision (significant vs not significant), which can be an oversimplification.
+
+- **C) TRUE** – If the 95% CI for a difference includes zero (or 1 for a ratio), there is no evidence that the parameter differs from zero, which is equivalent to p ≥ 0.05.
+
+- **D) TRUE** – Confidence intervals convey both the direction and magnitude of an effect plus uncertainty, whereas p-values only indicate whether an effect is statistically significant.
+
+- **E) FALSE** – A very small p-value (e.g., p = 0.001) indicates high statistical significance but does NOT necessarily imply practical/clinical relevance. It could be a very small effect estimated very precisely with a large sample size.
+
+</details>
+
+---
+
+## Question 29: Statistical vs Clinical Significance
+
+Which of the following statements about statistical and clinical significance are TRUE?
+
+- A) Statistical significance can be achieved with very large sample sizes even for trivial effects
+- B) Clinical significance refers to the practical importance of a treatment effect
+- C) A statistically significant result is always clinically meaningful
+- D) The larger the sample size, the smaller the minimum effect that can be detected
+- E) A p-value of 0.6 definitively means there is no treatment effect
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – With very large sample sizes, even tiny, clinically meaningless differences can achieve statistical significance because the standard error becomes very small.
+
+- **B) TRUE** – Clinical significance refers to whether a treatment effect has a real, genuine, noticeable impact on daily life or patient outcomes – the practical importance.
+
+- **C) FALSE** – Statistical significance does not guarantee clinical significance. A statistically significant result could represent a very small effect that has no practical importance.
+
+- **D) TRUE** – Larger samples provide more power to detect smaller effects. This is why sample size calculations should consider the minimum clinically important difference.
+
+- **E) FALSE** – A p-value of 0.6 means insufficient evidence to reject H₀, but it doesn't prove nothing is happening. It could be a large effect estimated imprecisely (wide CI) due to small sample size.
+
+</details>
+
+---
+
+## Question 30: Hypothesis Testing Framework
+
+Which of the following statements about the hypothesis testing framework are TRUE?
+
+- A) The logic of hypothesis testing is similar to "innocent until proven guilty"
+- B) We use evidence from the sample to decide whether to reject the null hypothesis
+- C) Failing to reject H₀ proves that H₀ is true
+- D) The significance level (α) is the decision rule chosen before the study
+- E) A test statistic allows us to calculate how likely our observed data is under H₀
+
+<details>
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Just as a defendant is presumed innocent until proven guilty, the null hypothesis is assumed true until sufficient evidence (data) suggests otherwise.
+
+- **B) TRUE** – In statistics, we use evidence from the sample data to help decide whether to reject the null hypothesis.
+
+- **C) FALSE** – Failing to reject H₀ does NOT prove H₀ is true. It only means we lack sufficient evidence to reject it. Absence of evidence is not evidence of absence.
+
+- **D) TRUE** – The significance level (typically α = 0.05) is the decision rule employed in the study and should be set before data collection. It is not affected by power or sample size.
+
+- **E) TRUE** – The test statistic, combined with its probability distribution under H₀, allows us to calculate the probability (p-value) of observing data as extreme or more extreme than what we collected.
 
 </details>
 
@@ -691,3 +965,14 @@ After completing these questions, ensure you understand:
 14. **Standard error**: SE = SD/√n, measures precision
 15. **Confidence intervals**: Interpretation and calculation for means and proportions
 16. **Sample size**: Relationship to precision and CI width
+
+**Statistical Inference (Questions 21-30):**
+17. **Null hypothesis**: Statement of no difference/effect, assumed true
+18. **Alternative hypothesis**: Negation of H₀, what we seek evidence for
+19. **P-values**: Probability of data given H₀ true, NOT probability H₀ is true
+20. **Significance level**: α = 0.05 convention, decision rule
+21. **Type I error**: False positive (rejecting true H₀), probability = α
+22. **Type II error**: False negative (failing to reject false H₀), probability = β
+23. **Power**: 1 - β, probability of detecting a real effect
+24. **One vs two-sided tests**: Direction of alternative hypothesis
+25. **Statistical vs clinical significance**: Small p ≠ important effect
