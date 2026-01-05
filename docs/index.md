@@ -37,7 +37,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Types of Data
 *10:30–11:00am | Peter Hall*   
-**📊 Slides:**  [Download](https://edinburgh-cancer-informatics.github.io/slides/types_of_data.pptx)
+**📊 Slides:**  [Download](slides/types_of_data.pptx)
 **💻 Tutorial:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats/tutorial_descriptive_statistics.html)
 
 ### Statistical Sampling
