@@ -17,6 +17,8 @@ Which of the following statements about data types are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, C, D are TRUE**
 
 **Explanation:**
@@ -47,6 +49,8 @@ Which of the following statements about measures of central tendency are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
+
+<br>
 
 **Correct answers: A, C, D, E are TRUE**
 
@@ -79,6 +83,8 @@ Which of the following statements about measures of dispersion are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, B, D, E are TRUE**
 
 **Explanation:**
@@ -109,6 +115,8 @@ Which of the following statements about the Normal distribution are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
+
+<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -141,6 +149,8 @@ Which of the following statements about graphs and data presentation are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, B, D, E are TRUE**
 
 **Explanation:**
@@ -171,6 +181,8 @@ Which of the following statements are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
+
+<br>
 
 **Correct answers: A, B, D, E are TRUE**
 
@@ -203,6 +215,8 @@ Which of the following statements about populations and samples are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, B, C, E are TRUE**
 
 **Explanation:**
@@ -233,6 +247,8 @@ Which of the following statements about skewed distributions are TRUE?
 
 <details>
 <summary>Click to reveal answer</summary>
+
+<br>
 
 **Correct answers: A, B, C, E are TRUE**
 
@@ -265,6 +281,8 @@ Which of the following statements about confidence intervals are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, B, C, D are TRUE**
 
 **Explanation:**
@@ -296,6 +314,8 @@ Which of the following statements about quartiles and percentiles are TRUE?
 <details>
 <summary>Click to reveal answer</summary>
 
+<br>
+
 **Correct answers: A, B, C, D are TRUE**
 
 **Explanation:**
@@ -314,10 +334,345 @@ Which of the following statements about quartiles and percentiles are TRUE?
 
 ---
 
+# 📚 Statistical Sampling
+
+---
+
+## Question 11: Probability Fundamentals
+
+Which of the following statements about probability are TRUE?
+
+- A) Probability can take any value between 0 and 1
+- B) A probability of 0 means the event will definitely not occur
+- C) Probability in statistical terms refers to the long-term frequency of an event occurring
+- D) If the probability of an event is p, then the probability of it not occurring is 1-p
+- E) A probability of 0.5 means the event is impossible
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – By definition, probability values range from 0 (impossible) to 1 (certain).
+
+- **B) TRUE** – A probability of 0 indicates the event will definitely not occur.
+
+- **C) TRUE** – In statistical terms, probability refers to the long-term frequency of an event occurring under specific assumptions, not just a subjective belief.
+
+- **D) TRUE** – This is the complement rule. If P(event) = p, then P(not event) = 1-p.
+
+- **E) FALSE** – A probability of 0.5 means the event has an equal chance of occurring or not occurring (50:50). A probability of 0 means the event is impossible.
+
+</details>
+
+---
+
+## Question 12: Populations and Samples
+
+Which of the following statements about populations and samples are TRUE?
+
+- A) The target population is the group of individuals to which results will be generalised
+- B) A sample is a subset of the population on which data are collected
+- C) It is always necessary to study the entire population to obtain reliable information
+- D) Smaller samples allow more attention to be given to validity and completeness of data
+- E) Population parameters are typically unknown and estimated from sample statistics
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The target population is defined as the group of individuals (or objects) to which study results will be generalised.
+
+- **B) TRUE** – A sample is by definition a subset of the population selected for study.
+
+- **C) FALSE** – Studying the entire population is often impractical and unnecessary. All required information can typically be obtained from a carefully chosen sample.
+
+- **D) TRUE** – One advantage of sampling is that the smaller volume of data allows more attention to validity, reliability, and completeness of data collection.
+
+- **E) TRUE** – Population parameters (like the true population mean μ) are typically unknown. We use sample statistics (like the sample mean x̄) to estimate them.
+
+</details>
+
+---
+
+## Question 13: Random Sampling Methods
+
+Which of the following statements about random sampling are TRUE?
+
+- A) In simple random sampling, every individual in the population has an equal probability of being selected
+- B) Simple random sampling requires a sampling frame
+- C) Random sampling helps reduce selection bias
+- D) Stratified sampling and cluster sampling are modifications of simple random sampling
+- E) Convenience sampling is the most reliable method for avoiding bias
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Simple random sampling ensures every possible sample from the target population has an equal probability of being chosen, which implies every individual has equal probability of selection.
+
+- **B) TRUE** – Simple random sampling requires a sampling frame (like a census or phone book) from which to select participants using random number tables.
+
+- **C) TRUE** – Random selection helps reduce selection bias by ensuring each individual has an equal chance of being selected.
+
+- **D) TRUE** – Stratified sampling, cluster sampling, multi-stage sampling, and systematic sampling are all modifications of simple random sampling. Randomness remains at the core.
+
+- **E) FALSE** – Convenience sampling (selecting whoever is easily available) is prone to selection bias because participants are not randomly selected.
+
+</details>
+
+---
+
+## Question 14: Selection Bias
+
+Which of the following statements about selection bias are TRUE?
+
+- A) Selection bias is a type of error that systematically skews results in a certain direction
+- B) Selection bias is most commonly associated with observational studies
+- C) Random selection completely eliminates all forms of selection bias
+- D) Self-selection into a study can introduce selection bias
+- E) Researchers should acknowledge selection bias in their study reports when it cannot be avoided
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Bias is defined as a type of error that systematically skews results in a particular direction.
+
+- **B) TRUE** – Selection bias is commonly associated with observational studies (cohort, case-control, cross-sectional) where participant selection isn't random.
+
+- **C) FALSE** – Even with random selection, selection bias can occur when people agree or decline to participate. Those who self-select may share characteristics that make them different from non-participants.
+
+- **D) TRUE** – When people choose to participate (self-select), they may share characteristics that differ from non-participants, introducing bias.
+
+- **E) TRUE** – Since selection bias is often unavoidable, researchers should examine their study design for this type of bias, find ways to adjust for it, and acknowledge it in their reports.
+
+</details>
+
+---
+
+## Question 15: Population Parameters vs Sample Statistics
+
+Which of the following statements about parameters and statistics are TRUE?
+
+- A) Population parameters are fixed but usually unknown
+- B) Sample statistics are calculated from collected data and are known
+- C) Sample statistics will differ between different samples from the same population
+- D) The population mean is denoted by x̄ (x-bar)
+- E) Sample statistics are used to make inferences about population parameters
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Population parameters (like the true population mean μ) are fixed values but are typically unknown because we cannot measure the entire population.
+
+- **B) TRUE** – Sample statistics are calculated from the data we collect and are therefore known values.
+
+- **C) TRUE** – Different random samples from the same population will yield different sample statistics due to sampling variability.
+
+- **D) FALSE** – The population mean is denoted by μ (mu). The sample mean is denoted by x̄ (x-bar).
+
+- **E) TRUE** – The fundamental purpose of sample statistics is to estimate and make inferences about the corresponding unknown population parameters.
+
+</details>
+
+---
+
+## Question 16: The Central Limit Theorem
+
+Which of the following statements about the central limit theorem are TRUE?
+
+- A) The distribution of sample means will be approximately Normal, regardless of the population distribution
+- B) The approximation to Normality improves as sample size increases
+- C) The central limit theorem only applies when the population is Normally distributed
+- D) The central limit theorem is useful for analysing proportions
+- E) Small samples from any distribution will have Normally distributed means
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The central limit theorem states that the distribution of sample means will be approximately Normal, even if the underlying population distribution is not Normal.
+
+- **B) TRUE** – The approximation to a Normal distribution gets closer as sample size increases.
+
+- **C) FALSE** – The power of the central limit theorem is that it applies regardless of the shape of the population distribution. The distribution of sample means tends toward Normal even from non-Normal populations.
+
+- **D) TRUE** – The central limit theorem is very useful in the analysis of proportions, allowing us to calculate confidence intervals for proportions using Normal distribution theory.
+
+- **E) FALSE** – Small samples may not have Normally distributed means, especially if the underlying population is highly skewed. The theorem works best with larger samples.
+
+</details>
+
+---
+
+## Question 17: Standard Error Calculation
+
+Which of the following statements about standard errors are TRUE?
+
+- A) The standard error measures the precision of a sample statistic
+- B) The standard error of the mean is calculated as SD/√n
+- C) The standard error is the standard deviation of a sampling distribution
+- D) Doubling the sample size will halve the standard error
+- E) A smaller standard error indicates a more precise estimate
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The standard error measures how precisely a sample statistic (like the sample mean) estimates the population parameter.
+
+- **B) TRUE** – SE = SD/√n, where SD is the sample standard deviation and n is the sample size.
+
+- **C) TRUE** – The standard error is indeed the standard deviation of the sampling distribution – it describes the spread of sample statistics across many hypothetical samples.
+
+- **D) FALSE** – Because the formula involves √n in the denominator, doubling n reduces SE by a factor of √2 (approximately 1.41), not by half. To halve the SE, you need to quadruple the sample size.
+
+- **E) TRUE** – A smaller standard error means less variability in the sample statistic, indicating more precise estimation of the population parameter.
+
+</details>
+
+---
+
+## Question 18: Confidence Intervals for Means
+
+Which of the following statements about confidence intervals for means are TRUE?
+
+- A) A 95% confidence interval has a 95% probability of containing the true population mean
+- B) The formula for a 95% CI is x̄ ± 1.96 × SE
+- C) Increasing sample size narrows the confidence interval
+- D) A wider confidence interval indicates greater precision
+- E) The confidence interval is centred on the sample mean
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The interpretation is that 95% of confidence intervals constructed from repeated samples would contain the true population mean.
+
+- **B) TRUE** – For large samples (where the Normal approximation applies), the 95% CI is calculated as sample mean ± 1.96 × standard error.
+
+- **C) TRUE** – Larger samples give smaller standard errors (SE = SD/√n), which produces narrower confidence intervals and more precise estimates.
+
+- **D) FALSE** – A wider confidence interval indicates less precision (more uncertainty). Narrower intervals indicate greater precision.
+
+- **E) TRUE** – The confidence interval is constructed by adding and subtracting the margin of error from the sample mean, so it is centred on x̄.
+
+</details>
+
+---
+
+## Question 19: Confidence Intervals for Proportions
+
+Which of the following statements about confidence intervals for proportions are TRUE?
+
+- A) The standard error of a proportion is calculated as √[p(1-p)/n]
+- B) The 95% CI for a proportion is p ± 1.96 × SE
+- C) The formula works best when p is close to 0 or 1
+- D) Larger sample sizes give more precise estimates of population proportions
+- E) A sample proportion of 0.75 from n=102 would have a wider CI than from n=500
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The standard error of a sample proportion p is SE = √[p(1-p)/n].
+
+- **B) TRUE** – The approximate 95% confidence interval for a population proportion uses the same structure as for means: p ± 1.96 × SE.
+
+- **C) FALSE** – The Normal approximation formula works best when p is "not too close" to 0 or 1. When p is very close to 0 or 1, other methods (like exact binomial methods) may be needed.
+
+- **D) TRUE** – Since SE = √[p(1-p)/n], larger n gives smaller SE and therefore narrower, more precise confidence intervals.
+
+- **E) TRUE** – With the same proportion (0.75), a smaller sample (n=102) gives a larger SE and wider CI than a larger sample (n=500).
+
+</details>
+
+---
+
+## Question 20: Sample Size and Precision
+
+Which of the following statements about sample size and precision are TRUE?
+
+- A) Larger samples provide more reliable estimates of population parameters
+- B) To halve the width of a confidence interval, you need to quadruple the sample size
+- C) Sample size affects the standard error but not the sample standard deviation
+- D) A sample size of 30 is always sufficient for any study
+- E) The degree of precision required should influence the choice of sample size
+
+<details>
+<summary>Click to reveal answer</summary>
+
+<br>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Larger samples provide more information about the population and yield more precise (reliable) estimates with narrower confidence intervals.
+
+- **B) TRUE** – Since SE = SD/√n, to halve the SE (and therefore halve the CI width), you need to increase n by a factor of 4 (because √4 = 2).
+
+- **C) TRUE** – Sample size affects the standard error (SE = SD/√n) but the sample standard deviation (SD) estimates population variability and is not systematically affected by sample size.
+
+- **D) FALSE** – There is no universal "sufficient" sample size. Required sample size depends on the desired precision, expected variability, effect size of interest, and the specific research question.
+
+- **E) TRUE** – Researchers should consider what degree of precision is appropriate for their study and calculate the sample size needed to achieve it.
+
+</details>
+
+---
+
 ## Summary of Key Learning Points
 
 After completing these questions, ensure you understand:
 
+**Descriptive Statistics & Data Types (Questions 1-10):**
 1. **Data types**: Distinguish between categorical (nominal, ordinal) and numerical (discrete, continuous) data
 2. **Central tendency**: When to use mean vs median vs mode
 3. **Dispersion**: Range, standard deviation, IQR and when each is appropriate
@@ -325,3 +680,14 @@ After completing these questions, ensure you understand:
 5. **Standard error vs SD**: SE measures precision of estimates; SD measures spread of data
 6. **Graphical methods**: Match the graph type to the data type
 7. **Confidence intervals**: What they mean and how they differ from reference ranges
+
+**Statistical Sampling (Questions 11-20):**
+8. **Probability**: Values between 0-1, complement rule
+9. **Populations vs samples**: Target population, sampling frame, inference
+10. **Random sampling**: Methods to reduce selection bias
+11. **Selection bias**: Sources and how to minimise it
+12. **Parameters vs statistics**: μ vs x̄, fixed vs variable
+13. **Central limit theorem**: Distribution of sample means approaches Normal
+14. **Standard error**: SE = SD/√n, measures precision
+15. **Confidence intervals**: Interpretation and calculation for means and proportions
+16. **Sample size**: Relationship to precision and CI width
