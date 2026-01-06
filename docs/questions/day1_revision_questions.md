@@ -14,7 +14,7 @@ Which of the following statements about data types are TRUE?
 - D) Histology type is an example of nominal categorical data
 - E) The number of brain metastases is continuous numerical data
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, C, D are TRUE**
@@ -45,7 +45,7 @@ Which of the following statements about measures of central tendency are TRUE?
 - D) The mode is the most frequently occurring value
 - E) The median is less influenced by outliers than the mean
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, C, D, E are TRUE**
@@ -76,7 +76,7 @@ Which of the following statements about measures of dispersion are TRUE?
 - D) The range is the difference between the maximum and minimum values
 - E) A larger standard deviation indicates greater spread in the data
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -107,7 +107,7 @@ Which of the following statements about the Normal distribution are TRUE?
 - D) The mean and median of a Normal distribution are equal
 - E) Height in a large population typically follows a Normal distribution
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -138,7 +138,7 @@ Which of the following statements about graphs and data presentation are TRUE?
 - D) Box plots show the median, quartiles, and potential outliers
 - E) A histogram showing a long tail to the right indicates positive skewness
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -169,7 +169,7 @@ Which of the following statements are TRUE?
 - D) The standard deviation describes the spread of individual observations
 - E) The standard error is always smaller than the standard deviation (when n > 1)
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -200,7 +200,7 @@ Which of the following statements about populations and samples are TRUE?
 - D) The sample mean is denoted by μ (mu)
 - E) Larger samples generally provide more reliable estimates of population parameters
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -231,7 +231,7 @@ Which of the following statements about skewed distributions are TRUE?
 - D) All biological measurements follow a Normal distribution
 - E) Negatively skewed data have a long tail extending to the left
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -262,7 +262,7 @@ Which of the following statements about confidence intervals are TRUE?
 - D) Increasing sample size narrows the confidence interval
 - E) Confidence intervals and reference ranges are the same thing
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -293,7 +293,7 @@ Which of the following statements about quartiles and percentiles are TRUE?
 - D) Percentiles divide the data into 100 equal parts
 - E) The 90th percentile means 90% of values are above this point
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -328,7 +328,7 @@ Which of the following statements about probability are TRUE?
 - D) If the probability of an event is p, then the probability of it not occurring is 1-p
 - E) A probability of 0.5 means the event is impossible
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -359,7 +359,7 @@ Which of the following statements about populations and samples are TRUE?
 - D) Smaller samples allow more attention to be given to validity and completeness of data
 - E) Population parameters are typically unknown and estimated from sample statistics
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -390,7 +390,7 @@ Which of the following statements about random sampling are TRUE?
 - D) Stratified sampling and cluster sampling are modifications of simple random sampling
 - E) Convenience sampling is the most reliable method for avoiding bias
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -421,7 +421,7 @@ Which of the following statements about selection bias are TRUE?
 - D) Self-selection into a study can introduce selection bias
 - E) Researchers should acknowledge selection bias in their study reports when it cannot be avoided
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -452,7 +452,7 @@ Which of the following statements about parameters and statistics are TRUE?
 - D) The population mean is denoted by x̄ (x-bar)
 - E) Sample statistics are used to make inferences about population parameters
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -483,7 +483,7 @@ Which of the following statements about the central limit theorem are TRUE?
 - D) The central limit theorem is useful for analysing proportions
 - E) Small samples from any distribution will have Normally distributed means
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D are TRUE**
@@ -514,7 +514,7 @@ Which of the following statements about standard errors are TRUE?
 - D) Doubling the sample size will halve the standard error
 - E) A smaller standard error indicates a more precise estimate
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -545,7 +545,7 @@ Which of the following statements about confidence intervals for means are TRUE?
 - D) A wider confidence interval indicates greater precision
 - E) The confidence interval is centred on the sample mean
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -576,7 +576,7 @@ Which of the following statements about confidence intervals for proportions are
 - D) Larger sample sizes give more precise estimates of population proportions
 - E) A sample proportion of 0.75 from n=102 would have a wider CI than from n=500
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -607,7 +607,7 @@ Which of the following statements about sample size and precision are TRUE?
 - D) A sample size of 30 is always sufficient for any study
 - E) The degree of precision required should influence the choice of sample size
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -642,7 +642,7 @@ Which of the following statements about hypotheses are TRUE?
 - D) The null hypothesis is assumed to be true until evidence suggests otherwise
 - E) A theory in empirical sciences can be proven true through hypothesis testing
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D are TRUE**
@@ -673,7 +673,7 @@ Which of the following statements about clinical trial types are TRUE?
 - D) All clinical trials must demonstrate superiority to be considered successful
 - E) The null hypothesis in a superiority trial typically states there is no difference between treatments
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -704,7 +704,7 @@ Which of the following statements about test statistics and p-values are TRUE?
 - D) A p-value of 0.03 means there is a 3% chance the null hypothesis is true
 - E) The test statistic value is related to a specific probability distribution
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -735,7 +735,7 @@ Which of the following statements about interpreting p-values are TRUE?
 - D) P < 0.05 suggests a small chance the observed results would occur if H₀ were true
 - E) (1 - p-value) gives the probability that the alternative hypothesis is true
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, C, D are TRUE**
@@ -766,7 +766,7 @@ Which of the following statements about Type I and Type II errors are TRUE?
 - D) Type II errors are generally considered more serious than Type I errors
 - E) The probability of a Type II error is denoted by β (beta)
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -797,7 +797,7 @@ Which of the following statements about statistical power are TRUE?
 - D) Higher power means a greater chance of making a Type I error
 - E) Power is typically expressed as a percentage
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, E are TRUE**
@@ -828,7 +828,7 @@ Which of the following statements about one-sided and two-sided tests are TRUE?
 - D) A one-sided test is more powerful than a two-sided test for detecting effects in the specified direction
 - E) It is appropriate to switch from a two-sided to one-sided test after seeing the data
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -859,7 +859,7 @@ Which of the following statements comparing p-values and confidence intervals ar
 - D) Confidence intervals convey more information than p-values alone
 - E) A very small p-value always indicates a clinically important effect
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, C, D are TRUE**
@@ -890,7 +890,7 @@ Which of the following statements about statistical and clinical significance ar
 - D) The larger the sample size, the smaller the minimum effect that can be detected
 - E) A p-value of 0.6 definitively means there is no treatment effect
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D are TRUE**
@@ -921,7 +921,7 @@ Which of the following statements about the hypothesis testing framework are TRU
 - D) The significance level (α) is the decision rule chosen before the study
 - E) A test statistic allows us to calculate how likely our observed data is under H₀
 
-<details>
+<details markdown="1">
 <summary>Click to reveal answer</summary>
 
 **Correct answers: A, B, D, E are TRUE**
@@ -976,3 +976,334 @@ After completing these questions, ensure you understand:
 23. **Power**: 1 - β, probability of detecting a real effect
 24. **One vs two-sided tests**: Direction of alternative hypothesis
 25. **Statistical vs clinical significance**: Small p ≠ important effect
+
+---
+
+# Statistical Tests for Comparing Groups
+
+The following questions cover choosing and applying statistical tests when comparing two or more groups.
+
+---
+
+## Question 31: Choosing Between Parametric and Non-parametric Tests
+
+Which of the following statements about parametric and non-parametric tests are TRUE?
+
+- A) Parametric tests assume the data come from a Normal distribution
+- B) Non-parametric tests are based on medians rather than means
+- C) Non-parametric tests are more powerful than parametric tests when normality holds
+- D) With large sample sizes, parametric tests can be used even if data are not perfectly Normal
+- E) The Mann-Whitney test is a non-parametric alternative to the two-sample t-test
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Parametric tests (e.g., t-tests) assume the data are drawn from a Normal distribution.
+
+- **B) TRUE** – Non-parametric tests work with ranks and test hypotheses about medians rather than means.
+
+- **C) FALSE** – Non-parametric tests are LESS powerful than parametric tests when the assumption of normality holds. This is the trade-off: non-parametric tests sacrifice some power in exchange for fewer assumptions.
+
+- **D) TRUE** – Due to the Central Limit Theorem, the sampling distribution of the mean approaches Normal with large samples, so parametric tests can be used even when data are not perfectly Normal.
+
+- **E) TRUE** – The Mann-Whitney U test (also called Wilcoxon rank-sum test) is the non-parametric equivalent of the independent two-sample t-test.
+
+</details>
+
+---
+
+## Question 32: One-Sample Tests
+
+Which of the following statements about one-sample tests are TRUE?
+
+- A) A one-sample t-test compares the sample mean to a known population value
+- B) The null hypothesis for a one-sample t-test states that the population mean equals a specific value
+- C) The Wilcoxon signed rank test is used for one-sample data when normality cannot be assumed
+- D) Student's t-test was developed by William Gosset while working at Guinness
+- E) A one-sample test can be used to determine if patients with a disease have abnormal values compared to normal population reference values
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D, E are all TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The one-sample t-test compares the sample mean to a specific hypothesised population value.
+
+- **B) TRUE** – H₀: μ = specific value. The test asks whether there is evidence that the population mean differs from this value.
+
+- **C) TRUE** – When data are not Normally distributed or contain outliers, the Wilcoxon signed rank test is the appropriate non-parametric alternative.
+
+- **D) TRUE** – William Gosset (1876-1937) developed the t-test while working at Guinness brewery. He was forced to publish under the pseudonym "Student" by his employer.
+
+- **E) TRUE** – This is a classic application: testing whether a sample of patients has a mean value that differs from the known healthy population mean.
+
+</details>
+
+---
+
+## Question 33: Two-Sample Independent Tests
+
+A clinical trial compares LDL cholesterol reduction between patients receiving Fluvastatin (n=500) versus Placebo (n=500). The data are approximately Normally distributed. Which of the following statements are TRUE?
+
+- A) Student's two-sample t-test is appropriate for this comparison
+- B) The null hypothesis states that the population mean LDL change is the same in both groups
+- C) If p < 0.05, we reject the null hypothesis and conclude the treatments differ
+- D) The 95% confidence interval for the difference in means quantifies the uncertainty in the treatment effect
+- E) If the 95% CI for the difference includes zero, the result is statistically significant
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – With Normally distributed data and two independent groups, the two-sample t-test is appropriate.
+
+- **B) TRUE** – H₀: μ₁ = μ₂ (or equivalently, H₀: μ₁ - μ₂ = 0). This states that the population means are equal.
+
+- **C) TRUE** – If p < 0.05 (using α = 0.05), we have sufficient evidence to reject H₀ and conclude there is a statistically significant difference between treatments.
+
+- **D) TRUE** – The 95% CI for the difference in means provides a range of plausible values for the true treatment effect, quantifying our uncertainty.
+
+- **E) FALSE** – This is backwards. If the 95% CI for the difference INCLUDES zero, it means the true difference could be zero, so the result is NOT statistically significant at p < 0.05.
+
+</details>
+
+---
+
+## Question 34: Paired vs Independent Samples
+
+Which of the following statements about paired and independent samples are TRUE?
+
+- A) Paired samples occur when the same individuals are measured twice
+- B) Blood pressure measured before and after treatment in the same patients is paired data
+- C) Comparing tumour volumes in patients treated with drug A versus different patients treated with drug B is independent data
+- D) Paired tests are generally more powerful than unpaired tests because they control for individual variability
+- E) The paired t-test and Wilcoxon signed rank test are both appropriate for paired numerical data
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D, E are all TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Paired data arise when measurements are made on the same individuals at two time points, or are otherwise naturally linked (e.g., matched case-control studies, left vs right side of body).
+
+- **B) TRUE** – This is a classic example of paired data: each patient serves as their own control.
+
+- **C) TRUE** – When different patients are in each treatment group with no natural pairing, the samples are independent.
+
+- **D) TRUE** – Paired tests analyse the differences within each pair, removing between-subject variability. This typically increases power to detect treatment effects.
+
+- **E) TRUE** – For Normally distributed paired data, use the paired t-test. For non-Normal paired data, use the Wilcoxon signed rank test.
+
+</details>
+
+---
+
+## Question 35: Tests for Categorical Data
+
+Which of the following statements about tests for categorical data are TRUE?
+
+- A) The chi-square test examines whether there is an association between two categorical variables
+- B) Fisher's exact test should be used when expected cell counts are small
+- C) The chi-square test compares observed frequencies to expected frequencies under the null hypothesis
+- D) For a 2×2 table, the chi-square test requires all expected cell counts to be greater than 5
+- E) McNemar's test is used for paired categorical data
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – The chi-square test of independence tests whether two categorical variables are associated (i.e., whether the distribution of one variable differs across levels of the other).
+
+- **B) TRUE** – When sample sizes are small (resulting in expected counts < 5 in any cell), Fisher's exact test is preferred because the chi-square approximation becomes unreliable.
+
+- **C) TRUE** – The chi-square statistic is calculated as Σ(O-E)²/E, where O = observed count and E = expected count under the assumption of no association.
+
+- **D) FALSE** – The common rule is that expected counts should be > 5, but the more conservative guideline is that ALL expected counts should be ≥ 4 (or some say ≥ 5). If any expected count is too small, Fisher's exact test should be used instead.
+
+- **E) TRUE** – McNemar's test is the appropriate test for comparing paired categorical data (e.g., response to treatment A vs treatment B applied to different sides of the same patient).
+
+</details>
+
+---
+
+## Question 36: Interpreting Test Results
+
+In a study comparing 2-year survival between men (n=42, 31% died) and women (n=60, 20% died) with lung cancer, the chi-square test gives p = 0.21. Which statements are TRUE?
+
+- A) We fail to reject the null hypothesis of no association between sex and survival
+- B) The p-value of 0.21 means there is a 21% probability that the null hypothesis is true
+- C) The result suggests insufficient evidence of a difference in survival between men and women
+- D) A larger sample size might have detected a statistically significant difference
+- E) The 11% absolute difference in mortality (31% vs 20%) may still be clinically meaningful
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, C, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Since p = 0.21 > 0.05, we fail to reject H₀. There is insufficient evidence to conclude an association between sex and 2-year survival.
+
+- **B) FALSE** – This is a common misconception. The p-value is NOT the probability that H₀ is true. It is the probability of observing data as extreme as ours (or more extreme) IF H₀ were true.
+
+- **C) TRUE** – The p-value indicates we do not have sufficient statistical evidence to conclude the survival rates differ between men and women.
+
+- **D) TRUE** – With more patients, the same proportional difference might achieve statistical significance because the standard error would be smaller.
+
+- **E) TRUE** – An 11% absolute difference in mortality could be clinically important even if not statistically significant. Statistical significance depends on sample size; clinical significance depends on the magnitude of effect.
+
+</details>
+
+---
+
+## Question 37: Multiple Comparisons
+
+Which of the following statements about multiple comparisons are TRUE?
+
+- A) Performing multiple statistical tests increases the chance of finding at least one significant result by chance
+- B) With 20 independent tests at α = 0.05, there is a 64% probability of at least one false positive
+- C) The Bonferroni correction adjusts the significance level by dividing α by the number of tests
+- D) Subgroup analyses in clinical trials can produce misleading results due to multiple comparisons
+- E) ANOVA is used to compare means across more than two groups while controlling the overall Type I error rate
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D, E are all TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Each test at α = 0.05 has a 5% chance of a false positive. With multiple tests, these probabilities compound, increasing the overall chance of at least one spurious significant result.
+
+- **B) TRUE** – The probability of at least one false positive = 1 - (0.95)²⁰ ≈ 0.64 or 64%.
+
+- **C) TRUE** – The Bonferroni correction divides the significance level by the number of tests: adjusted α = α/n. For 10 tests at α = 0.05, each test uses α = 0.005.
+
+- **D) TRUE** – The famous ISIS-2 trial example showed that subgroup analysis by star sign suggested aspirin didn't work for Gemini and Libra – an obviously spurious finding from multiple testing.
+
+- **E) TRUE** – Analysis of Variance (ANOVA) tests whether means differ across multiple groups in a single test, avoiding the multiple comparisons problem that would arise from multiple pairwise t-tests.
+
+</details>
+
+---
+
+## Question 38: ANOVA and Kruskal-Wallis
+
+Which of the following statements about comparing more than two groups are TRUE?
+
+- A) ANOVA tests whether the population means of three or more groups are equal
+- B) The Kruskal-Wallis test is the non-parametric equivalent of ANOVA
+- C) If ANOVA shows p < 0.05, we can conclude which specific groups differ from each other
+- D) ANOVA assumes data are Normally distributed within each group
+- E) Post-hoc tests (e.g., Tukey's HSD) can be used after a significant ANOVA to identify which groups differ
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – ANOVA (Analysis of Variance) tests H₀: μ₁ = μ₂ = μ₃ = ... (all group means are equal) against H₁: at least one mean differs.
+
+- **B) TRUE** – When the normality assumption is violated, the Kruskal-Wallis test provides a non-parametric alternative that compares medians across multiple groups.
+
+- **C) FALSE** – A significant ANOVA only tells us that at least one group differs from the others. It does NOT identify WHICH groups differ. Post-hoc tests are needed for pairwise comparisons.
+
+- **D) TRUE** – ANOVA assumes normality of data within each group, homogeneity of variances, and independence of observations.
+
+- **E) TRUE** – Post-hoc tests (such as Tukey's Honest Significant Difference) perform pairwise comparisons while controlling for multiple testing after a significant omnibus ANOVA.
+
+</details>
+
+---
+
+## Question 39: Sample Size and Power
+
+Which of the following statements about sample size and statistical power are TRUE?
+
+- A) Power is the probability of correctly rejecting the null hypothesis when it is false
+- B) Increasing sample size increases the power of a study
+- C) Power typically increases as the minimum detectable effect size decreases
+- D) A study with 80% power has a 20% chance of a Type II error (false negative)
+- E) Sample size calculations require specification of the minimum clinically important difference
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, D, E are TRUE**
+
+**Explanation:**
+
+- **A) TRUE** – Power (1-β) is the probability of detecting a real effect when one exists – i.e., correctly rejecting H₀ when H₁ is true.
+
+- **B) TRUE** – Larger samples provide more precise estimates (smaller standard errors), making it easier to detect true effects, thus increasing power.
+
+- **C) FALSE** – Power DECREASES as the minimum detectable effect size decreases. Smaller effects are harder to detect and require larger sample sizes. Power increases with LARGER effect sizes.
+
+- **D) TRUE** – If power = 80%, then β = 20%. This means there is a 20% probability of failing to detect a real treatment effect (Type II error).
+
+- **E) TRUE** – Sample size calculations require: (1) the minimum effect size worth detecting, (2) expected variability (SD), (3) desired power (usually 80-90%), and (4) significance level (usually 0.05).
+
+</details>
+
+---
+
+## Question 40: Choosing the Right Test
+
+Match the scenario to the appropriate statistical test. Which pairings are CORRECT?
+
+- A) Comparing mean blood pressure between diabetic and non-diabetic patients (normally distributed data) → Two-sample t-test
+- B) Comparing pain scores (ordinal, 0-10 scale) between two treatment groups → Mann-Whitney test
+- C) Testing whether the proportion responding to treatment differs between men and women → Chi-square test
+- D) Comparing tumour volume before and after radiotherapy in the same patients (skewed data) → Wilcoxon signed rank test
+- E) Comparing quality of life scores across four disease stages → One-sample t-test
+
+<details markdown="1">
+<summary>Click to reveal answer</summary>
+
+**Correct answers: A, B, C, D are CORRECT**
+
+**Explanation:**
+
+- **A) CORRECT** – Two independent groups with Normally distributed continuous data → Two-sample t-test.
+
+- **B) CORRECT** – Ordinal data or non-Normal continuous data with two independent groups → Mann-Whitney test (non-parametric).
+
+- **C) CORRECT** – Comparing proportions between two groups (categorical outcome, categorical predictor) → Chi-square test (or Fisher's exact if small expected counts).
+
+- **D) CORRECT** – Paired measurements (same patients, before/after) with non-Normal data → Wilcoxon signed rank test.
+
+- **E) INCORRECT** – Comparing across four groups requires ANOVA (if Normal) or Kruskal-Wallis (if non-Normal), NOT a one-sample t-test. A one-sample t-test compares a single sample mean to a hypothesised value.
+
+</details>
+
+---
+
+## Updated Summary: Statistical Tests for Comparing Groups (Questions 31-40)
+
+26. **Parametric vs non-parametric**: Parametric tests (t-tests) assume normality and test means; non-parametric tests (Mann-Whitney, Wilcoxon) test medians and make fewer assumptions but have less power
+27. **One-sample tests**: Compare sample mean/median to a known population value
+28. **Two-sample independent tests**: Compare means/medians between two unrelated groups
+29. **Paired tests**: For data from the same individuals measured twice; more powerful than unpaired tests
+30. **Chi-square test**: Tests association between categorical variables; requires adequate expected cell counts
+31. **Fisher's exact test**: Use when expected cell counts are small
+32. **McNemar's test**: For paired categorical data
+33. **Multiple comparisons**: More tests = higher false positive rate; use Bonferroni correction
+34. **ANOVA/Kruskal-Wallis**: Compare three or more groups; require post-hoc tests to identify which groups differ
+35. **Sample size and power**: Larger samples and larger effects increase power; underpowered studies risk false negatives
