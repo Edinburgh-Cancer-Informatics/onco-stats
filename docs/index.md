@@ -37,53 +37,56 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Types of Data
 *10:30–11:00am | Peter Hall*   
-**📊 Slides:**  [Download](./slides/types_of_data_2026.pdf)
-**💻 Tutorial:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats/tutorial_descriptive_statistics.html)
+**📊 Slides:**  [Download](./slides/types_of_data.pdf)  
+**📖 Tutorial:** [Link](./tutorials/tutorial_descriptive_statistics.html)
 
 ### Statistical Sampling
 *11:00am–12:30pm | Giovanni Tramonti*  
-**📊 Slides:**  
+**📊 Slides:**  [Download](./slides/sampling.pdf)
 
 ### Principles of Statistical Inference
 *1:30–2:30pm | Giovanni Tramonti*   
-**📊 Slides:**  
-**📚 Reading:** 
+**📊 Slides:**  [Download](./slides/statistical_inference.pdf)  
+**📖 Handbook Section:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/08-statistical-inference.html#the-logic-of-statistical-inference) 
 
 ### Tests to Compare Groups
 *2:30–3:30pm | Giovanni Tramonti*  
-
+**📊 Slides:**  [Download](./slides/tests_for_groups.pdf)
 
 ---
 
-## Day 2 – Tuesday 6th January
+## Day 2 – Tuesday 6th January  
 
-### Guided Self-Study
-*9:00–9:30am* **📄 Practice Questions:** 
+**📝Self Study:** [Revision Questions (from Day 1)](./questions/day1_revision_questions.md)  
 
 ### Association and Regression
-*9:30–11:00am | Piyumanga Karunaratne* 
+*9:30–11:00am | Piyumanga Karunaratne*  
+**📊 Slides with Practice Questions:**  [Download](./slides/correlation_regression.pdf)  
+**📝 Practice Question Answers** [Link](./questions/hold.md)  
+**💻 Practice R Scripts:**  [Correlation](./scripts/Correlation.R) [Linear Regression](./scripts/Linear_regression.R) [Logistic_regression](./scripts/Logistic_regression.R)
 
 ### Survival Analysis
 *11:30am–12:30pm | Peter Hall*  
-**📊 Slides:** [PDF](https://github.com/username/oncology-stats/releases/download/v2026/day2-survival.pdf)  
-**💻 Tutorial:** [Kaplan-Meier and Cox Regression](https://username.github.io/oncology-stats/tutorials/05-survival.html)
+**📊 Slides:** [Download](./slides/survival.pdf)   
+**📖 Tutorial:** [Kaplan-Meier and Cox Regression](./tutorials/survival_analysis_tutorial.html)
 
 ### Screening Tests
-*1:30–2:30pm | Piyumanga Karunaratne*
+*1:30–2:30pm | Piyumanga Karunaratne*  
+**📊 Slides:** [Download](./slides/screening_tests.pdf)  
+**📖 Handbook Section:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/08-statistical-inference.html)
 
 ### Clinical Trial Design
-*3:00–4:00pm | Rob Jones*   
-**📊 Slides:**
+*3:00–4:00pm | Rob Jones*  
 
 ---
 
 ## Day 3 – Wednesday 7th January
 
-### Guided Self-Study
+### Supported Self-Study
 *9:00–10:00am* **📄 Practice Questions:** 
 
 ### Epidemiological Studies
-*10:00–10:45am | Peter Hall*   
+*10:00–10:45am*   
 **📊 Slides:**
 
 
