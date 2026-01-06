@@ -62,7 +62,7 @@ Course materials are available below, organised by day and session. Slides and r
 ### Association and Regression
 *9:30–11:00am | Piyumanga Karunaratne*  
 **📊 Slides with Quiz:**  [Download](./slides/correlation_regression.pdf)  
-**📝 Quiz with Answers** [Link](./questions/correlation_regression_revision.md)  
+**📝 Quiz with Answers** [Link](./questions/correlation_regression_quiz.md)  
 **💻 Practice R Scripts:**  [Correlation](./scripts/Correlation.R) [Linear Regression](./scripts/Linear_regression.R) [Logistic_regression](./scripts/Logistic_regression.R)
 
 ### Survival Analysis
