@@ -63,7 +63,7 @@ Course materials are available below, organised by day and session. Slides and r
 *9:30–11:00am | Piyumanga Karunaratne*  
 **📊 Slides with Quiz:**  [Download](./slides/correlation_regression.pdf)  
 **📝 Quiz with Answers** [Link](./questions/correlation_regression_quiz.md)  
-**💻 Practice R Scripts:**  [Correlation](./scripts/Correlation.R) [Linear Regression](./scripts/Linear_regression.R) [Logistic_regression](./scripts/Logistic_regression.R)
+**💻 Practice R Scripts:**  [Correlation](./scripts/Correlation.R) | [Linear Regression](./scripts/Linear_regression.R) | [Logistic_regression](./scripts/Logistic_regression.R)
 
 ### Survival Analysis
 *11:30am–12:30pm | Peter Hall*  
@@ -73,9 +73,7 @@ Course materials are available below, organised by day and session. Slides and r
 ### Screening Tests
 *1:30–2:30pm | Piyumanga Karunaratne*  
 **📊 Slides with Quiz:** [Download](./slides/screening_tests.pdf)  
-**📝 Quiz with Answers** [Link](./questions/hold.md)  
-
-
+**📝 Quiz with Answers** [Link](./questions/screening_tests_quiz.md)  
 **📖 Handbook Section:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/08-statistical-inference.html)
 
 ### Clinical Trial Design
