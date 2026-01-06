@@ -77,7 +77,8 @@ Course materials are available below, organised by day and session. Slides and r
 **📖 Handbook Section:** [Link](https://edinburgh-cancer-informatics.github.io/onco-stats-handbook/08-statistical-inference.html)
 
 ### Clinical Trial Design
-*3:00–4:00pm | Rob Jones*  
+*3:00–4:00pm | Rob Jones* 
+ **📊 Slides:** [Download](./slides/clinical_trial_design.pdf)   
 
 ---
 
