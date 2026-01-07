@@ -78,7 +78,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Clinical Trial Design
 *3:00–4:00pm | Rob Jones*  
- **📊 Slides:** [Download](./slides/clinical_trial_design.pdf)   
+**📊 Slides:** [Download](./slides/clinical_trial_design.pdf)   
 
 ---
 
@@ -87,16 +87,16 @@ Course materials are available below, organised by day and session. Slides and r
 ### Supported Self-Study
 *9:00–10:00am*  
 **📝 Practice Questions:** [Revision Questions (from Day 2)](./questions/day2_revision_questions.md)  
-**💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)
+**💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)  
 
 
 ### Epidemiological Studies
-*10:00–10:45am*   
-**📊 Slides:**  
+*10:00–10:45am | Piyumanga Karunaratne*  
+**📊 Slides:** [Download](./slides/epidemiological_data.pdf)  
 
 ### Exam Question Workshop 1
 *11:00am–12:30pm | Anna Cowel*   
-**📄 Workshop Questions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1.pdf)  
+**📄 Workshop Questions:** [pending](./slides/exam_workshop1_questions_removed.pdf)  
 **📄 Solutions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1-solutions.pdf)
 
 ### Data Management for Research
