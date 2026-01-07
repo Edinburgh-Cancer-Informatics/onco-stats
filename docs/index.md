@@ -96,12 +96,12 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Exam Question Workshop 1
 *11:00am–12:30pm | Anna Cowel*   
-**📄 Workshop Questions:** [pending](./slides/exam_workshop1_questions_removed.pdf)  
+**📄 Workshop Questions:** [Download](./slides/exam_workshop1_questions_removed.pdf)  
 **📄 Solutions:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-workshop1-solutions.pdf)
 
 ### Data Management for Research
 *1:30–2:30pm | Mahéva Vallet*   
-**📊 Slides:** [pending](https://github.com/username/oncology-stats/releases/download/v2026/day3-data-management.pdf)  
+**📊 Slides:** [Download](./slides/data_management.pdf)  
 
 ### Introduction to R (Optional)
 *2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*
