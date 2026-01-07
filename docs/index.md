@@ -105,9 +105,9 @@ Course materials are available below, organised by day and session. Slides and r
 **📊 Slides:** [Download](./slides/data_management.pdf)  
 
 ### Introduction to R (Optional)
-*2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*
+*2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*  
 **📊 Slides:** [Download](./slides/intro_to_r.pdf)  
-**💻 Workbook:** [Link](./tutorials/intro_to_r_exercises.html)
+**💻 Workbook:** [Link](./tutorials/intro_to_r_exercises.html)  
 **💻 Workbook with solutions:** [Link](./tutorials/intro_to_r_solutions.html)
 
 ---
