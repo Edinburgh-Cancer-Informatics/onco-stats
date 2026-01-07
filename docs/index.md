@@ -93,6 +93,7 @@ Course materials are available below, organised by day and session. Slides and r
 ### Epidemiological Studies
 *10:00–10:45am | Piyumanga Karunaratne*  
 **📊 Slides:** [Download](./slides/epidemiological_data.pdf)  
+**📝 Questions and Answers** [Link](./questions/epidemiological_studies_quiz.md)
 
 ### Exam Question Workshop 1
 *11:00am–12:30pm | Anna Cowel*   
