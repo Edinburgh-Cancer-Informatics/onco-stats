@@ -107,8 +107,8 @@ Course materials are available below, organised by day and session. Slides and r
 ### Introduction to R (Optional)
 *2:30–4:00pm | Giovanni Tramonti, Piyumanga Karunaratne, Mahéva Vallet, Peter Hall*
 **📊 Slides:** [Download](./slides/intro_to_r.pdf)  
-**💻 Workbook1:** [Link](./tutorials/intro_to_r_exercises.html)
-**💻 Workbook2:** [Link](./tutorials/intro_to_r_solutions.html)
+**💻 Workbook:** [Link](./tutorials/intro_to_r_exercises.html)
+**💻 Workbook with solutions:** [Link](./tutorials/intro_to_r_solutions.html)
 
 ---
 
