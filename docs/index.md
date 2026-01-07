@@ -86,7 +86,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Supported Self-Study
 *9:00–10:00am*  
-**📝 Practice Questions:** [Revision Questions (from Day 2)](./questions/day2_revision_questions.md)  
+**📝 Revision Questions from Day 2:** [Link](./questions/day2_revision_questions.md)  
 **💻 R Setup Guide** - [Installation instructions](https://argoshare.is.ed.ac.uk/healthyr_book/getting-started.html)  
 
 
@@ -116,7 +116,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Guided Self-Study
 *9:00–10:00am*  
-**📄 Practice Questions:**
+**📄 Revision Questions from Day 3:** [Link](./questions/day3_revision_questions.md)  
 
 ### Exam Question Workshop 2
 *10:00–11:15am | Anna Cowel*   
@@ -125,7 +125,7 @@ Course materials are available below, organised by day and session. Slides and r
 
 ### Health Economics
 *11:30am–12:30pm | Peter Hall*  
-**📊 Slides:** [TBC](https://github.com/username/oncology-stats/releases/download/v2026/day4-health-economics.pdf)  
+**📊 Slides:** [Download](./slides/health_economics.pdf)   
 **🎥 Legacy Recordings:**   
 * [Part 1 - Healthcare Expenditure and Health (Setting the Scene)](https://media.ed.ac.uk/media/1_3du9wry4)
 * [Part 2 - Health Economics (What's it all about?)](https://media.ed.ac.uk/media/1_9oats1ss)  
@@ -141,7 +141,7 @@ Course materials are available below, organised by day and session. Slides and r
 ## Additional Resources
 
 ### Downloadable Datasets
-**📦 Course datasets:**
+**📦 Course datasets - useful for practicing analysis:**
 
 Individual datasets:  
 * [Breast cancer cohort](https://github.com/edinburgh-cancer-informatics/oncology-stats/raw/main/data/breast_cancer_data.xlsx)
