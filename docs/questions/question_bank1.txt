@@ -1,0 +1,100 @@
+
+Thursday, October 3, 2013
+FRCR Oncology Part 1: Medical Statistic 2 (15 questions)
+1. A randomized experiment was done by randomly assigning each participant either to walk for half an hour three times a week or to sit quietly reading a book for half an hour three times a week. At the end of a year the change in participants' blood pressure over the year was measured, and the change was compared for the two groups.
+  
+If a statistically significant difference in blood pressure change at the end of a year for the two activities was found, then:
+a. It cannot be concluded that the difference in activity caused a difference in the change in blood pressure because in the course of a year there are lots of possible confounding variables.
+b. Whether or not the difference was caused by the difference in activity depends on what else the participants did during the year.
+c. It cannot be concluded that the difference in activity caused a difference in the change in blood pressure because it might be the opposite, that people with high blood pressure were more likely to read a book than to walk.
+d. It can be concluded that the difference in activity caused a difference in the change in blood pressure because of the way the study was done.
+ 
+2. What is one of the distinctions between a population parameter and a sample statistic?
+a. A population parameter is only based on conceptual measurements, but a sample statistic is based on a combination of real and conceptual measurements.
+b. A sample statistic changes each time you try to measure it, but a population parameter remains fixed.
+c. A population parameter changes each time you try to measure it, but a sample statistic remains fixed across samples.
+d. The true value of a sample statistic can never be known but the true value of a population parameter can be known.
+ 
+3. A magazine printed a survey in its monthly issue and asked readers to fill it out and send it in. Over 1000 readers did so. This type of sample is called
+a. a cluster sample.
+b. a self-selected sample.
+c. a stratified sample.
+d. a simple random sample.
+ 
+4. Which of the following would be most likely to produce selection bias in a survey?
+a. Using questions with biased wording.
+b. Only receiving responses from half of the people in the sample.
+c. Conducting interviews by telephone instead of in person.
+d. Using a random sample of students at a university to estimate the proportion of people
+who think the legal drinking age should be lowered.
+ 
+5. Which one of the following variables is not categorical?
+a. Age of a person.
+b. Gender of a person: male or female.
+c. Choice on a test item: true or false.
+d. Marital status of a person (single, married, divorced, other)
+
+6. A polling agency conducted a survey of 100 doctors on the question “Are you willing to treat
+women patients with the recently approved pill ABX-123”? The conservative margin of error
+associated with the 95% confidence interval for the percent who say 'yes' is
+a. 50% 
+b. 10% 
+c. 5% 
+d. 2%
+ 
+7. Which one of these statistics is unaffected by outliers?
+a. Mean
+b. Interquartile range
+c. Standard deviation
+d. Range
+ 
+8. Which of the following would indicate that a dataset is not bell-shaped?a. The range is equal to 5 standard deviations.
+b. The range is larger than the interquartile range.
+c. The mean is much smaller than the median.
+d. There are no outliers.
+
+9. The value of a correlation is reported by a researcher to be r = −0.5. Which of the following
+statements is correct?
+a. The x-variable explains 25% of the variability in the y-variable.
+b. The x-variable explains −25% of the variability in the y-variable.
+c. The x-variable explains 50% of the variability in the y-variable.
+d. The x-variable explains −50% of the variability in the y-variable.
+ 
+10. What is the effect of an outlier on the value of a correlation coefficient?
+a. An outlier will always decrease a correlation coefficient.
+b. An outlier will always increase a correlation coefficient.
+c. An outlier might either decrease or increase a correlation coefficient, depending on
+where it is in relation to the other points.
+d. An outlier will have no effect on a correlation coefficient.
+ 
+11. One use of a regression line is
+a. to determine if any x-values are outliers.
+b. to determine if any y-values are outliers.
+c. to determine if a change in x causes a change in y.
+d. to estimate the change in y for a one-unit change in x.
+ 
+12. A chi-square test of the relationship between personal perception of emotional health and marital status led to rejection of the null hypothesis, indicating that there is a relationship between these two variables. One conclusion that can be drawn is:
+a. Marriage leads to better emotional health.
+b. Better emotional health leads to marriage.
+c. The more emotionally healthy someone is, the more likely they are to be married.
+d. There are likely to be confounding variables related to both emotional health and marital status.
+ 
+13. A chi-square test involves a set of counts called “expected counts.” What are the expected
+counts?
+a. Hypothetical counts that would occur of the alternative hypothesis were true.
+b. Hypothetical counts that would occur if the null hypothesis were true.
+c. The actual counts that did occur in the observed data.
+d. The long-run counts that would be expected if the observed counts are representative.
+ 
+14. Pick the choice that best completes the following sentence. If a relationship between two
+variables is called statistically significant, it means the investigators think the variables are
+a. related in the population represented by the sample.
+b. not related in the population represented by the sample.
+c. related in the sample due to chance alone.
+d. very important.
+ 
+15. Simpson's Paradox occurs when
+a. No baseline risk is given, so it is not know whether or not a high relative risk has practical importance.
+b. A confounding variable rather than the explanatory variable is responsible for a change in the response variable.
+c. The direction of the relationship between two variables changes when the categories of a confounding variable are taken into account.
+d. The results of a test are statistically significant but are really due to chance.

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-[**Pre-Course**](#pre-course-materials) | [**Day 1**](#day-1--monday-5th-january) | [**Day 2**](#day-2--tuesday-6th-january) | [**Day 3**](#day-3--wednesday-7th-january) | [**Day 4**](#day-4--thursday-8th-january) |[**Resources**](#additional-resources) | [**Feedback Form**](https://forms.cloud.microsoft/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYe5-seBTUNlJpQkUwP6aIZtUMTNEN0wwREg5MDVPWTZNMVAzRE82UEtGQy4u&route=shorturl)
+[**Pre-Course**](#pre-course-materials) | [**Day 1**](#day-1--monday-5th-january) | [**Day 2**](#day-2--tuesday-6th-january) | [**Day 3**](#day-3--wednesday-7th-january) | [**Day 4**](#day-4--thursday-8th-january) |[**Resources**](#additional-resources) | [**Course Q&A Forum**](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions)
 
 =======
 
@@ -14,8 +14,8 @@ title: Home
 
 Course materials are available below, organised by day and session. Slides and recordings will be added during and after the course. Recordings only available via NHS Scotland MS Teams channel.
 
-**Questions and Answers about the course:** [Q&A Discussion Board on Github](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions/3)  
-**Please feedback so that we can improve the course:** [Feedback Discussion Board on Github](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions/2)
+ 
+**Please feedback so that we can improve the course:** [Discussion Board on Github](https://github.com/Edinburgh-Cancer-Informatics/onco-stats/discussions)
 
 ---
 
@@ -139,6 +139,8 @@ Course materials are available below, organised by day and session. Slides and r
 ---
 
 ## Additional Resources
+
+**A previous trainee's notes:** [Link](https://clinicaloncologyregistrar.com/cancer-biology/statistics/)  
 
 ### Downloadable Datasets
 **📦 Course datasets - useful for practicing analysis:**
