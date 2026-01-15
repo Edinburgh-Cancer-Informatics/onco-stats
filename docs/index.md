@@ -132,6 +132,7 @@ Course materials are available below, organised by day and session. Slides and r
 * [Part 3 - Reimbursement Decision Making (Core concepts)](https://media.ed.ac.uk/media/1_5e0tdhnx)  
 * [Part 4 - Decision making in the NHS (Health Economics in action)](https://media.ed.ac.uk/media/1_yb26dqll)  
 
+Download our textbook: [Cost-effectiveness Modelling for Health Technology Assessment](./Cost-effectiveness_modelling_for_health_technology_assessment.pdf)
 
 ### Critical Appraisal & Key Trials
 *1:30–3:30pm | Stefan Symeonides* 
