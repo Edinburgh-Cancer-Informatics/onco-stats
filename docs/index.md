@@ -109,6 +109,7 @@ Course materials are available below, organised by day and session. Slides and r
 **📊 Slides:** [Download](./slides/intro_to_r.pdf)  
 **💻 Workbook:** [Link](./tutorials/intro_to_r_exercises.html)  
 **💻 Workbook with solutions:** [Link](./tutorials/intro_to_r_solutions.html)
+**↗️Take your R learning to the next level with the KIND Network:** [Link](https://nes-dew.github.io/KIND-training/)
 
 ---
 
